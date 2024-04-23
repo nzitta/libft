@@ -1,7 +1,7 @@
 # libft
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/392/371/png-transparent-book-library-five-flat-books-angle-text-comic-book.png" />
+  <img src="https://i.pinimg.com/736x/af/d1/e6/afd1e65cacca8822d1f857d5182b3aed.jpg" style="width: 200px; height: 150px;"/>
 </p>
 
 This is the first project that you will have to build as a 42 student. It forms a solid foundation for your journey through the common core, as it gives you the resources to solve future projects.
