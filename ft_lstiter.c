@@ -23,15 +23,3 @@ void	ft_lstiter(t_list *lst, void (*f)(void *))
 		temp = temp->next;
 	}
 }
-
-// int	main(void)
-// {
-// 	char	*str;
-
-// 	str = (char *)content;
-// 	if (str)
-// 	{
-// 		printf("%s", str);
-// 	}
-// 	return (0);
-// }
